@@ -1,5 +1,5 @@
 n1 = float(input('sua nota' ))
-n2 = float(input('sua segunda hota' ))
+n2 = float(input('sua segunda nota' ))
 print(f'sua primeira nota foi: {n1}')
 print(f'sua primeira nota foi: {n2}')
 soma = (n1 + n2)/2
