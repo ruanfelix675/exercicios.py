@@ -1,0 +1,5 @@
+caixas = int(input('digite a quantidade de caixas:'))
+itens = int(input('digite a quantidade de itens:'))
+print(f'total de caixas {caixas} total de itens {itens}')
+print(f'cada caixa tera {itens} itens numero de caixas {caixas//itens} preenchidas com {itens} itens')
+print(f'itens que sobraram {caixas%itens}')
